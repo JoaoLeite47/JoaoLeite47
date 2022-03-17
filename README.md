@@ -1,4 +1,4 @@
-## Hey!! Dev apaixonado por resolver problemas!
+## ⚙ Dev apaixonado por resolver problemas!
 <div align="center">
   <a href="https://github.com/JoaoLeite47">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLeite47&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

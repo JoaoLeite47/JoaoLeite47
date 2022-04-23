@@ -14,7 +14,7 @@
 <img src="https://img.icons8.com/color/96/000000/css3.png"/>
 <div> 
   
-  <a href="https://www.instagram.com/jvl_souza/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/joão-victor-leite-souza-1b0a87206/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" target="_blank"></a> 
+  <a href="https://www.instagram.com/jvl_souza/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="blank"></a>
+   <a href="https://www.linkedin.com/in/joão-victor-leite-souza-1b0a87206/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" target="blank"></a> 
  
 </div>

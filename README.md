@@ -7,14 +7,14 @@
 - 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: I was Designer once!
 -  ❕ Email - HopeeSuporte@outlook.com
-  </div>
-<div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
+<div>
+<img src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>
+<img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/96/000000/css3.png"/>
 <div> 
   
-  <a href="https://www.instagram.com/jvl_souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/joão-victor-leite-souza-1b0a87206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/jvl_souza/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/joão-victor-leite-souza-1b0a87206/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" target="_blank"></a> 
  
 </div>

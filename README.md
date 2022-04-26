@@ -19,4 +19,4 @@
  
 </div>
 
-<img height="180em" align="right" src="https://user-images.githubusercontent.com/100146681/165375804-50074ac5-89b9-41a7-acc8-622be93861f3.gif"/>
+<img height="180em" align="middle" src="https://user-images.githubusercontent.com/100146681/165375804-50074ac5-89b9-41a7-acc8-622be93861f3.gif"/>

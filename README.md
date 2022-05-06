@@ -12,6 +12,7 @@
 <img src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>
 <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/96/000000/css3.png"/>
+<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 <div> 
   
   <a href="https://www.instagram.com/jvl_souza/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="blank"></a>

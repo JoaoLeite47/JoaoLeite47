@@ -20,5 +20,8 @@
    <a href="https://www.linkedin.com/in/joão-victor-leite-souza-1b0a87206/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" target="blank"></a> 
  <a href="https://api.whatsapp.com/send?phone=5571986149734&text=Olá%20João!!%20Estou%20aqui%20pelo%20link%20em%20seu%20site!" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v5.png" target="blank"></a>
 </div>
+ :white_check_mark: Minhas estatísticas
 
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoLeite47&theme=solarized_dark)](#)
+  
 <img height="180em" align="middle" src="https://user-images.githubusercontent.com/100146681/165375804-50074ac5-89b9-41a7-acc8-622be93861f3.gif"/>

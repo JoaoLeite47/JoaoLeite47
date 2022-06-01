@@ -26,3 +26,4 @@
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoLeite47&theme=solarized_dark)](#)
   
 <img height="180em" align="middle" src="https://user-images.githubusercontent.com/100146681/165375804-50074ac5-89b9-41a7-acc8-622be93861f3.gif"/>
+<img height="180em" align="middle" src="https://user-images.githubusercontent.com/100146681/171303308-e7d9018c-739e-4e8d-a422-6c1a1c69fabe.gif"/>

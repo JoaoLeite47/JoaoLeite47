@@ -13,7 +13,7 @@
 <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/96/000000/css3.png"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/external-justicon-flat-justicon/96/000000/external-adobe-social-media-justicon-flat-justicon.png"/>
+<img src="https://img.icons8.com/nolan/96/react-native.png"/>
 <div> 
   
   <a href="https://www.instagram.com/jvl_souza/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="blank"></a>

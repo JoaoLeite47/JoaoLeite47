@@ -14,6 +14,7 @@
 <img src="https://img.icons8.com/color/96/000000/css3.png"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/nolan/96/react-native.png"/>
+  <img src="https://img.icons8.com/fluency/96/000000/typescript.png"/>
 <div> 
   
   <a href="https://www.instagram.com/jvl_souza/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="blank"></a>

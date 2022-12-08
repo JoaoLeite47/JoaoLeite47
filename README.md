@@ -1,5 +1,5 @@
 
-<h1> 🧛‍♂️ Hey there! dev in progress here! 🐱‍👤</h1>
+<h1> 🧛‍♂️ Hey there! 🐱‍👤</h1>
 <h2> João Leite - 21 anos - Desistir não faz parte do meu vocabulário e gosto de ir sempre até o final! </h2>
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoLeite47&theme=tokyonight"/> 
